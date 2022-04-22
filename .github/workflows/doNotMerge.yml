@@ -12,4 +12,4 @@ jobs:
       - uses: codelytv/no-pull-requests@v1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          message: 🙅 We don't accept Pull Requests!
+          message: 🙅 pullReqeust의 base branch를 확인해주세요.
